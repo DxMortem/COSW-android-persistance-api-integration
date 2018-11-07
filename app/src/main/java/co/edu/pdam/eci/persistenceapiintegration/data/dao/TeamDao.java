@@ -6,7 +6,6 @@ import co.edu.pdam.eci.persistenceapiintegration.data.entity.Team;
  * @author Santiago Carrillo
  */
 
-public interface TeamDao
-    extends BaseDao<Team, Long>
-{
+public interface TeamDao{
+
 }

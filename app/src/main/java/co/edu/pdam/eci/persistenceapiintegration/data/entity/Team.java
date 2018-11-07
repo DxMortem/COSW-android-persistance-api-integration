@@ -1,11 +1,15 @@
 package co.edu.pdam.eci.persistenceapiintegration.data.entity;
 
+import android.arch.persistence.room.Entity;
+import android.arch.persistence.room.PrimaryKey;
+
 /**
  * @author Santiago Carrillo
  */
 
-//TODO add database annotations and proper model structure
-public class Team
-    extends BaseEntity
-{
+@Entity
+public class Team {
+
+
+
 }
